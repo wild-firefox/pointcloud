@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./MPI-Sintel-depth-training-20150305/sdk/python"
+    ]
+}
